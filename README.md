@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bho011
 - 👀 I’m interested in Java & JS, PHYTON, Rust, GO, SQL
-- 🌱 I’m currently learning Python, SQL, Rust & GO and a little bit PowerShell ;)
+- 🌱 I’m currently learning Python, SQL, Java & GO and a little bit PowerShell ;)
 - 💞️ I’m looking to collaborate on currently nothing
 - 📫 you can reach me nowhere!
 
