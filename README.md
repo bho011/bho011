@@ -99,9 +99,7 @@ Ich dokumentiere viele meiner Lern- und Projektfortschritte, um technische Entsc
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhoo11&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoo11&layout=compact&theme=transparent&hide_border=true)
+...
 
 ---
 
