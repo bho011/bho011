@@ -13,6 +13,7 @@ Derzeit arbeite ich intensiv mit:
 - **Python** für Steuerungslogik, Automatisierung und Projektstrukturierung
 - **Raspberry Pi** als Plattform für praxisnahe Software- und Hardware-Tests
 - **VS Code / Remote-SSH** für Entwicklung direkt auf Zielsystemen
+- **JetBrains PyCharm und IntelliJ IDEA** für Python- und Java-Entwicklung
 - **Git & GitHub** für Versionsverwaltung und Projektdokumentation
 - **Node-RED, MQTT und OPC UA** im Kontext technischer Systeme und Prozessdaten
 - **Linux** als Arbeits- und Lernumgebung
@@ -51,6 +52,7 @@ Ich sehe Programmierung nicht nur als Schreiben von Code, sondern als systematis
 
 - Raspberry Pi Projekte
 - Remote-Entwicklung über SSH
+- Entwicklung mit VS Code, PyCharm und IntelliJ IDEA
 - Sensorwerte lesen und verarbeiten
 - MQTT-Kommunikation
 - OPC-UA-Grundlagen
@@ -89,6 +91,8 @@ Ich dokumentiere viele meiner Lern- und Projektfortschritte, um technische Entsc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
